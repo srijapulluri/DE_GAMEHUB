@@ -1,0 +1,16 @@
+.square {
+    border: 5px solid lightpink;
+    display: inline-block;
+    height: 135px;
+}
+
+.flex-container {
+    display: flex;
+    min-width: 500px;
+    padding-left: 540px;
+}
+
+.flex-container>div {
+    width: 140px;
+    text-align: center;
+}
